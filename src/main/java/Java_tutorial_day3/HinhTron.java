@@ -24,4 +24,5 @@ public class HinhTron {
                 "banKinh=" + banKinh +
                 '}';
     }
+
 }

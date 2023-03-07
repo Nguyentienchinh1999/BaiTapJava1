@@ -74,6 +74,7 @@ public class Java_OOP {
         int indexCv = 0;
         int indextDt = 0;
         int trungbinh = 0;
+        int sum = 0;
         int count = 0;
         double temp = ht[0].banKinh;
         for(int i =1; i <n; i++){
@@ -85,11 +86,13 @@ public class Java_OOP {
                 minDt = ht[i].dienTich();
                 indextDt = i;
             }
-            trungbinh += ht[i].chuVi()/n;
+            sum += ht[i].chuVi();
+
             if(ht[i].chuVi() > trungbinh){
                 count ++;
             }
         }
+        trungbinh = sum/n;
         System.out.println("hinh tron co chu vi lon nhat la: "  + maxCV + " tai vi tri: " + indexCv);
         System.out.println("hinh tron co dien tinh be nhat la: "  + minDt + " tai vi tri: " + indextDt);
         System.out.println("trung binh chu vi la " + trungbinh);
@@ -106,5 +109,6 @@ public class Java_OOP {
         for(int i = 0; i < n; i++){
             System.out.println("ban kinh tang dan la: " + ht[i].toString());
         }
+
     }
 }
