@@ -1,4 +1,4 @@
-package Java_day4_baitap.Date;
+package Java_day4_baitap_Encapsulation.Date;
 
 public class Date {
     private int day;

@@ -1,4 +1,4 @@
-package Java_day4_baitap.InvoiceItem;
+package Java_day4_baitap_Encapsulation.InvoiceItem;
 
 public class main {
     public static void main(String[] args) {

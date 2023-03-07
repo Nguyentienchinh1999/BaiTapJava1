@@ -1,4 +1,4 @@
-package Java_day4_baitap.Account;
+package Java_day4_baitap_Encapsulation.Account;
 
 public class Account {
     private String id;

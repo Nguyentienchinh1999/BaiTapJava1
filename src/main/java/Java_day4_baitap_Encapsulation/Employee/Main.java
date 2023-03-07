@@ -1,4 +1,4 @@
-package Java_day4_baitap.Employee;
+package Java_day4_baitap_Encapsulation.Employee;
 
 public class Main {
     public static void main(String[] args) {

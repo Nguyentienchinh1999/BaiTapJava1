@@ -1,4 +1,4 @@
-package Java_day4_baitap.Circle;
+package Java_day4_baitap_Encapsulation.Circle;
 
 public class Circle {
     private double radius;

@@ -1,4 +1,4 @@
-package Java_day4_baitap;
+package Java_day4_baitap_Encapsulation.HinhChuNhat;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Java_day4_baitap.InvoiceItem;
+package Java_day4_baitap_Encapsulation.InvoiceItem;
 
 public class InvoiceItem {
     private String id;

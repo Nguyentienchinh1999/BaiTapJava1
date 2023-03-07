@@ -1,4 +1,4 @@
-package Java_day4_baitap.Rectangle;
+package Java_day4_baitap_Encapsulation.Rectangle;
 
 public class Main {
     public static void main(String[] args) {
